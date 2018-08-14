@@ -1,0 +1,39 @@
+h1
+{
+  color:black;
+  font-family: sans-serif;
+  border-bottom:solid;
+}
+h2
+{
+  font-family:serif;
+  color:grey;
+}
+.seti img{
+	height: 350px;
+	width: 500px;
+  position: absolute;
+	top:150px;
+	left:50px;
+}
+.setj img{
+	height: 350px;
+	width: 500px;
+  position: absolute;
+	top:150px;
+	left:700px;
+}
+h3 {
+   position: absolute;
+   top: 502px;
+   left: 200px;
+   width: 100%;
+	 color:"black"
+}
+h4 {
+   position: absolute;
+   top: 502px;
+   left: 900px;
+   width: 100%;
+	 color:"black"
+}
